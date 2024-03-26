@@ -32,11 +32,4 @@ Contributions are welcome! Please follow these guidelines when contributing to t
 - Issue that pull request!
 
 
-## 🔒 Privacy Concerns
 
-Please note that while the frontend code is shared openly, the backend code cannot be shared due to privacy concerns. The backend may contain sensitive information and proprietary algorithms.
-
-## 🙏 Acknowledgments
-
-The Flutter team for providing an amazing framework for building cross-platform applications.
-Contributors to the project for their valuable contributions and support.
